@@ -1,0 +1,13 @@
+{
+  "menu": [
+    {
+      "name": "Data View",
+      "badgeClass": "badge badge-light-warning rounded-pill ms-auto me-1",
+      "icon": "home",
+      "slug": "admin.data.manage",
+      "url": "/admin/data/manage"
+      
+    }
+   
+  ]
+}

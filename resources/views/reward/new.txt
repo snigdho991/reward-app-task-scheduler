@@ -1,0 +1,23 @@
+What does re allow 
+From Me to Everyone 02:27 AM
+Re-allow photo means when a user come to the app he/she gets a "allow permission to all photos" pop up. But if he/she enables it from this settings, then he/she doesn't need to allow it again whenever he/she will enter the app.
+From Karen Daugherty to Everyone 02:28 AM
+And just to clarify….the trash icon deletes the picture and the save icon keeps the picture?
+From Me to Everyone 02:29 AM
+Correct. You are completely right.
+From Karen Daugherty to Everyone 02:37 AM
+Does the seconds between buckets automatically set to 30 seconds and then the user changes it to 0-5 seconds?
+Things that need to be updated:
+1. Install an “undo” feature to get an image back if we want
+2. Change graphic image on the login page
+The user swipes left or right to keep image, correct?
+I think there needs to be an arrow pointing right or left to show users how to work it.
+From Karen Daugherty to Everyone 02:45 AM
+Select photos should send users to another screen that gives options (date, time, etc)
+For example….if the user picks “select photos” they would have an option to choose photos from a particular date
+Is that an option?
+From Me to Everyone 02:47 AM
+I understand. But will it redirect to the user's phone gallery?
+From Karen Daugherty to Everyone 02:48 AM
+It could be a particular date (like March 2022) or a particular place (Italy 2022). I think “select photos” should pull up an option to choose a date/place and then it would redirect to the users photo gallery based on what they chose
+Here’s an option. The date/location could be a simple like it could be “photos from the last 30 days” instead of March 2022
